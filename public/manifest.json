@@ -1,0 +1,12 @@
+{
+  "name": "Bitcoin Portfolio Analyzer",
+  "short_name": "Portfolio Analyzer",
+  "description": "Controla y analiza tu inversión personal en Bitcoin.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#09090B",
+  "theme_color": "#09090B",
+  "icons": [
+    { "src": "icon.svg", "type": "image/svg+xml", "sizes": "any" }
+  ]
+}
